@@ -56,8 +56,8 @@ command-line workflows and use it to automate real tasks on Linux systems.
 | Module | Topic | Status |
 |:------:|-------|:------:|
 | 01 | Terminal fundamentals and navigation | ![Done](https://img.shields.io/badge/-Completed-2ea44f?style=flat-square) |
-| 02 | Variables, quoting, and user input | ![Progress](https://img.shields.io/badge/-In%20Progress-f0ad4e?style=flat-square) |
-| 03 | Conditionals (`if`, `case`) | ![Planned](https://img.shields.io/badge/-Planned-6c757d?style=flat-square) |
+| 02 | Variables, quoting, and user input | ![Progress](https://img.shields.io/badge/-Completed-2ea44f?style=flat-square) |
+| 03 | Conditionals (`if`, `case`) | ![Planned](https://img.shields.io/badge/-Completed-2ea44f?style=flat-square) |
 | 04 | Loops (`for`, `while`, `until`) | ![Planned](https://img.shields.io/badge/-Planned-6c757d?style=flat-square) |
 | 05 | Functions and scope | ![Planned](https://img.shields.io/badge/-Planned-6c757d?style=flat-square) |
 | 06 | Arrays and string manipulation | ![Planned](https://img.shields.io/badge/-Planned-6c757d?style=flat-square) |
